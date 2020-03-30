@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1-multicore/ingenua.cpp
+iostream
+-
+cmath
+-
+ctime
+-
+vector
+-
+chrono
+-
+functional
+-
+fstream
+-
+algorithm
+-
+sstream
+-
+string
+-
+
