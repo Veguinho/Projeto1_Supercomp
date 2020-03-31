@@ -1,4 +1,4 @@
-# Install script for directory: /Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1-multicore
+# Install script for directory: /Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1_Supercomp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1-multicore/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1_Supercomp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

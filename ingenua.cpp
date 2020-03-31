@@ -13,7 +13,7 @@ using namespace std;
 tuple<vector<int>, int> escolhe_alunos(vector<vector<int>> prefs,
                                                 vector<int> aluno_projeto, 
                                                 vector<int> vagas,
-                                                tuple<vector<int>, int> melhor, 
+                                                tuple<vector<int>, int>& melhor, 
                                                 int satisfacao_atual=0,
                                                 bool ja_passou = false, 
                                                 int i=0){

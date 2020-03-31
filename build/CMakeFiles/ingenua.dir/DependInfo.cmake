@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1-multicore/ingenua.cpp" "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1-multicore/build/CMakeFiles/ingenua.dir/ingenua.cpp.o"
+  "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1_Supercomp/ingenua.cpp" "/Users/veguinho/Documents/Insper/7_semestre/Supercomp/Projeto1_Supercomp/build/CMakeFiles/ingenua.dir/ingenua.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
